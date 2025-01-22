@@ -1,0 +1,6 @@
+id=quick_share_fix
+name=Quick Share Fix
+version=1
+versionCode=1
+author=@binarynoise
+description=Fix Quick Share on Samsung phones running LineageOS by pretending to be manufactured by Google
